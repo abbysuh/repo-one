@@ -1,0 +1,24 @@
+.header {
+  background-color: #eeeeee;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+
+
+footer {
+  background-color: #222222;
+  color: #ffffff;
+  padding-bottom: 60px;
+  padding-top: 60px;
+}
+
+.body {
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+
+.item {
+  background-color: #eeeeee;
+  padding: 40px;
+  margin-bottom: 20px;
+}
